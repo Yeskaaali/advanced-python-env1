@@ -1,0 +1,7 @@
+a = input("First name? ")
+b = input("Last name? ")
+c = input("Age? ")
+d = input("Phone? ")
+print(a,b)
+print(c)
+print(d)
